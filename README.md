@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 <ul>
   <li>Pronomes: Ela/Dela</li>
-  <li>Estudante de Engenharia de Software</li>
+  <li>Estudante de Engenharia de Software - USC</li>
 </ul>
 
 <br>
