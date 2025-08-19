@@ -5,7 +5,11 @@
   <li>Estudante de Engenharia de Software - USC</li>
 </ul>
 
-![Snake animation](https://github.com/geovanamoreira/geovanamoreira/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geovanamoreira/geovanamoreira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geovanamoreira/Ggeovanamoreira/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/geovanamoreira/geovanamoreira/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div>
 <a href="https://github.com/geovanamoreira">
