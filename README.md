@@ -16,6 +16,12 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanamoreira&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=geovanamoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
+## Aprendendo:
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />       
+          
 ## Contatos:
 <div>
 <a href = "mailto:geovanamoreira907@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
