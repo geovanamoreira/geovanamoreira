@@ -17,7 +17,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=geovanamoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 ## Aprendendo:
-<img src="https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)">
+<img src="https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)">
           
 ## Contatos:
 <div>
