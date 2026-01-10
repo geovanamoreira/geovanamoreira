@@ -11,8 +11,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/geovanamoreira/geovanamoreira/output/github-contribution-grid-snake.svg">
 </picture>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=geovanamoreira)](https://github.com/anuraghazra/github-readme-stats)
 
-## Aprendendo:
+## Linguagens:
 <img src="https://skillicons.dev/icons?i=js,html,css,java,)](https://skillicons.dev)">
           
 ## Contatos:
